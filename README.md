@@ -42,4 +42,4 @@ and pdfium.lib needed to build the GDAL PDF driver.
 
 # Pre-build binaries
 
-Pre-build binaries may be found at https://github.com/rouault/pdfium_build_gdal_3_8/releases
+Pre-build binaries may be found at https://github.com/rouault/pdfium_build_gdal_3_9/releases
